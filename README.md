@@ -3,7 +3,7 @@ Data Wrangling
 
 ## Objectives
 
-After completing this lab you will be able to:
+After completing this lab we will be able to:
 
 * Handle missing values
 * Correct data formatting
@@ -32,9 +32,7 @@ After completing this lab you will be able to:
 <hr>
 
 
-
 <h3>Import data</h3>
 <p>
 You can find the "Automobile Dataset" from the following link: <a href="https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data">https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data</a>. 
-You will be using this data set throughout this course.
 </p>
